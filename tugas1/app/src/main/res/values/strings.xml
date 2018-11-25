@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">tugas 1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="semangat_pagi">Semangat Pagi!!</string>
+    <string name="kelas_absen_xii_rpl_3_27">Kelas / Absen : XII RPL 3 / 27</string>
+    <string name="nama_nayang_albik_bagasseno">Nama : Nayang Albik Bagasseno</string>
+    <string name="todo">TODO</string>
+    <string name="kelahiran_malang_13_april_2001">Kelahiran : Malang, 13 April 2001</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="profile">Profile</string>
+    <string name="daftar_foto">Daftar foto</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="about">About</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="home">Home</string>
+    <string name="nayang_albik_bagasseno">Nayang Albik Bagasseno</string>
+    <string name="xii_rpl_3_27">XII RPL 3 - 27</string>
+</resources>
